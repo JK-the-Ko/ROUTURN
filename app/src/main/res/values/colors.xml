@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DRIVE PLAN B design tokens (day). Approximate values chosen from the Route:Re handoff palette
+         and the Pleos UI guide principles (contrast 4.5:1 or higher). Replace with official
+         Pleos Connect colors once the Colors page values are available. -->
+    <color name="pb_bg">#F3F6FA</color>
+    <color name="pb_surface">#FFFFFF</color>
+    <color name="pb_surface_alt">#E8EEF6</color>
+    <color name="pb_outline">#C5CFDD</color>
+    <color name="pb_text">#101828</color>
+    <color name="pb_text_secondary">#475467</color>
+    <color name="pb_accent">#0B6E88</color>
+    <color name="pb_accent_text">#FFFFFF</color>
+    <color name="pb_positive">#11703F</color>
+    <color name="pb_positive_bg">#DDF4E7</color>
+    <color name="pb_warning">#8A4B00</color>
+    <color name="pb_warning_bg">#FDEBD0</color>
+    <color name="pb_neutral_bg">#E4E9F1</color>
+    <color name="pb_ripple">#33000000</color>
+
+    <!-- Template colors still referenced by themes.xml (Material base theme). -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

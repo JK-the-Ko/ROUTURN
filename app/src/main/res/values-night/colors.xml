@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- DRIVE PLAN B design tokens (night). Dark surfaces keep text contrast above 4.5:1. -->
+    <color name="pb_bg">#0D1420</color>
+    <color name="pb_surface">#192234</color>
+    <color name="pb_surface_alt">#243047</color>
+    <color name="pb_outline">#3A4860</color>
+    <color name="pb_text">#F2F5FA</color>
+    <color name="pb_text_secondary">#B9C4D4</color>
+    <color name="pb_accent">#6FD1E8</color>
+    <color name="pb_accent_text">#0D1420</color>
+    <color name="pb_positive">#6FE0A2</color>
+    <color name="pb_positive_bg">#143A28</color>
+    <color name="pb_warning">#FFC774</color>
+    <color name="pb_warning_bg">#4A3414</color>
+    <color name="pb_neutral_bg">#2A3548</color>
+    <color name="pb_ripple">#33FFFFFF</color>
+</resources>
