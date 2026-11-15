@@ -24,4 +24,4 @@ NVIDIA Corporation/
 
 # Local Claude Code settings and skills (not part of the project)
 .claude/
-!releases/*.apk
+!apk/*.apk
