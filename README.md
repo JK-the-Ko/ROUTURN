@@ -40,4 +40,13 @@
 - `app/src/test/` : 상태 전이와 후보 정렬 단위 테스트
 - `docs/기획안.md` : 기획 문서 (이전 README)
 - `docs/Drive_Plan_B_Scenario.pdf` : 개발 핸드오프 문서
-- `.claude/skills/pleos-dev/` : Pleos 개발용 참고 스킬
+
+## 설치 (디버그 APK)
+
+`releases/ROUTURN-debug.apk` 는 디버그 빌드입니다. 에뮬레이터나 개발용 차량에서만 사용하세요.
+
+```bash
+adb install -r releases/ROUTURN-debug.apk
+```
+
+무결성 확인은 `releases/SHA256SUMS.txt` 의 값과 비교합니다.
